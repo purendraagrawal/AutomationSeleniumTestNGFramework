@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Automation">
+	<test name="SauceLabsTest">
+		<classes>
+			<class name="org.afTestNG.tests.SauceDemoLoginTest" />
+		</classes>
+	</test>
+</suite>
